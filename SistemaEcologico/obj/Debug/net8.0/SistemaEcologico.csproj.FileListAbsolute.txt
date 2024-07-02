@@ -1,0 +1,14 @@
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.exe
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.deps.json
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.runtimeconfig.json
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.pdb
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.AssemblyInfo.cs
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\refint\SistemaEcologico.dll
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.pdb
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.genruntimeconfig.cache
+C:\Users\cesar\OneDrive - Universidad Católica Nordestana (UCNE)\Escritorio\Universidad\Cuatrimestre 2-2024\Simulacion Digital\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\ref\SistemaEcologico.dll
